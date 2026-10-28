@@ -1,0 +1,14 @@
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# the mod writes these while you play
+mod/logs/*.log
+mod/cached/*.data
+
+# editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
