@@ -36,6 +36,6 @@ Claude Sonnet 5.5 Free Plan
 
 Some functions to connect to archipelago have been writen by AI, These function have a comment like `This has been writen by AI`. I welcome anyone to change these functions to none AI code, test and PR it.
 
-I don't have an autocomplete function enabled and no AI connected directly to this code. In the past I had a local AI, but due to windows corrupting. I have not installed or used one while making this project.
+I don't have an autocomplete function enabled and no AI connected directly to this code. In the past I had a local AI, but due to windows corrupting and a reinstall. I have not installed one and used one while making this project.
 
-All AI code that is currently in use has been looked trough, sometimes rewriten, tested and looked trough again by me before publishing. At this moment i have 8 years of programming behind me with a degree in software engineering (VET) and currently doing a Bachelor’s degree in also software engineering. With some in the field work in between. I know what the code does and i can debug it if needed.
+All AI code that is currently in use has been looked trough, sometimes rewriten, tested and looked trough again by me before publishing. At this moment i have 8 years of programming behind me with a degree in software engineering (VET). I know what the code does and i can debug it if needed.
