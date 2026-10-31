@@ -52,7 +52,7 @@ Follow the style of the code around your change.
 
 ## Releases
 
-Maintainers publish releases. How that works is described in [docs/PUBLISHING.md](docs/PUBLISHING.md).
+Maintainers publish releases. How that works is described in [docs/PUBLISHING.md](docs/publishing.md).
 
 ## License
 
