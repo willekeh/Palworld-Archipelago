@@ -24,8 +24,7 @@ made with that tool and the files of `mod/` are copied into it. The mod is a pla
 
 ### First upload
 
-1. Subscribe to **UE4SS Experimental (Palworld)** and enable it under **Options → Mod Management**. Start Palworld
-   once so `Mods\PalModSettings.ini` exists.
+1. Subscribe to **UE4SS Experimental (Palworld)** and enable it under **Options → Mod Management**. Start Palworld once.
 2. Start **Palworld Mod Uploader** from your Steam library.
 3. Click **Create New Mod** and tick **Lua**. This registers an empty Workshop item right away and creates a folder
    named after the item's id under the Workshop content directory.
@@ -34,7 +33,7 @@ made with that tool and the files of `mod/` are copied into it. The mod is a pla
    the **whole folder** to Steam, so nothing else may be in it.
 5. Select the mod in the uploader and check the fields:
    - **Package Name** must be letters and digits only.
-   - **Dependencies → Edit** lists the mods found in your Workshop content directory. Pick **UE4SS Experimental
+   - **Dependencies then Edit** lists the mods found in your Workshop content directory. Pick **UE4SS Experimental
      (Palworld)**, which is only listed while you are subscribed. Its package name should be `UE4SSExperimentalPW`.
    - **Debug Mode** off.
 6. Press **Save Info.json**. The uploader writes the file in its own format, so copy it back over `mod/Info.json` in
@@ -54,8 +53,7 @@ made with that tool and the files of `mod/` are copied into it. The mod is a pla
 
 ### Things to know
 
-- The mod finds its own folder from the location of its script (`mod/Scripts/ap/paths.lua`), so it works in the
-  Workshop location and in a manual install.
+- The mod finds its own folder from the location of its script (`mod/Scripts/ap/paths.lua`).
 - The mod ships `lua-apclientpp.dll`. It is the unmodified MIT-licensed library, its license is next to it. Read the
   current Steam Workshop and Palworld modding rules about native DLLs before you publish.
 - Players must not have UE4SS installed by hand at the same time as the Workshop UE4SS. To make Workshop UE4SS version work Delete/Move `dwmapi.dll` or `xinput1_3.dll` in `Pal\Binaries\Win64` in case you installed it by hand.

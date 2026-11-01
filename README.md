@@ -1,7 +1,7 @@
 # Palworld Archipelago
 
 An [Archipelago](https://archipelago.gg) multiworld integration for currently the early game of Palworld. Technologies,
-buildings, area keys and levels become items that can be anywhere in a multiworld. Catching your first pal of each
+area keys and levels become items that can be anywhere in a multiworld. Catching your first pal of each
 kind, completing quests and reaching levels send items to other players.
 
 It has two parts:

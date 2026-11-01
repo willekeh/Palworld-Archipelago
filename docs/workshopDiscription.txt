@@ -1,0 +1,45 @@
+[h1]Archipelago - Palworld Alpha[/h1]
+
+Play Palworld as part of an [url=https://archipelago.gg]Archipelago[/url] multiworld.
+
+Technologies, buildings, area keys and levels are items that can be anywhere in the multiworld, in your world or in the world of another player. Catching your first pal of each kind, completing quests and reaching levels send items to other players.
+
+[h2]Alpha notice[/h2]
+This build can be broken, please test it solo first before using it in a sync or async. What i haven't tested:
+[list]
+[*] Multiplayer Itself.
+[*] Multiplayer Worlds. (I have tested it a little bit, but not well.)
+[*] Other well known mods.
+[/list]
+If you find any bugs please send the logs at [b]C:\Program Files (x86)\Steam\steamapps\workshop\content\1623730\3830381574\logs [/b]
+
+[h2]What you need[/h2]
+[list]
+[*] [b]UE4SS Experimental (Palworld)[/b] from the Steam Workshop, enabled under Options > Mod Management
+[*] The Palworld apworld for Archipelago, from the GitHub releases page
+[/list]
+
+[h2]How to play[/h2]
+[olist]
+[*] Subscribe to this mod and to UE4SS Experimental (Palworld), then enable both under Options > Mod Management and restart.
+[*] Load a Palworld world.
+[*] Open the chat and type: [b]!!connect host:port slotname [password][/b]
+[*] Play. Your items show up in the chat. Type [b]!!disconnect[/b] to leave, or go back to the title screen.
+[/olist]
+
+[h2]Goal[/h2]
+Defeat the tower boss of The Rayne Syndicate, or complete the quest The Rayne Syndicate.
+
+[h2]Notes[/h2]
+[list]
+[*] Technologies stay locked until you have received them.
+[*] In this version area keys and levels are part of the logic only; the mod does not block areas or levelling. Levelling blocking is for the next version!
+[*] Goal can be done out of logic, this is intentional
+[/list]
+
+
+
+[h2]Links[/h2]
+[list]
+[*] Setup guide, source code, bug reports and the apworld at: https://github.com/willekeh/Palworld-Archipelago
+[/list]

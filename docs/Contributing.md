@@ -14,7 +14,8 @@ This page explains how the repository is organised, how to run the tests and how
 
 The mod and the apworld have to agree on every id and name, so most changes touch both.
 
-\*\*add folder structure
+For setup of the mod for development follow [Pwmodding Lua mod structure](https://pwmodding.wiki/docs/developers/ue4ss-modding/lua-mods/lua-modding-tools)
+While dumping it only dumps to how far you have played in a session. So if you only open te game, but never hit the techtree menu while dumping. It can not get the code for that.
 
 ## Running the tests
 
