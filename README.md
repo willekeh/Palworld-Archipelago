@@ -19,7 +19,7 @@ What the game changes, its items, locations and goal are described in the [game 
 
 ## Development
 
-## Tests
+for contributing see [Contributing](docs/contributing.md)
 
 ## License
 

@@ -1,0 +1,355 @@
+{
+  "starting_items": [
+    "Plateau of Beginnings Key"
+  ],
+  "items": [
+    {
+      "id": 9370001,
+      "name": "Plateau of Beginnings Key",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370002,
+      "name": "Windswept Hills Key",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370003,
+      "name": "Golden Hills Key",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370004,
+      "name": "Flying Fish Coast Key",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370005,
+      "name": "Sea Breeze Archipelago Key",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370006,
+      "name": "Progressive Level",
+      "type": "progression",
+      "amount": 8
+    },
+    {
+      "id": 9370007,
+      "name": "Pal Box",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370008,
+      "name": "Progressive Pal Sphere",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370009,
+      "name": "Progressive Cooking",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370010,
+      "name": "Progressive Bow",
+      "type": "progression",
+      "amount": 2
+    },
+    {
+      "id": 9370011,
+      "name": "Progressive Arrow",
+      "type": "progression",
+      "amount": 3
+    },
+    {
+      "id": 9370012,
+      "name": "Progressive Armor",
+      "type": "progression",
+      "amount": 2
+    },
+    {
+      "id": 9370013,
+      "name": "Progressive Materials",
+      "type": "progression",
+      "amount": 2
+    },
+    {
+      "id": 9370014,
+      "name": "Pal Gear Workbench",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370015,
+      "name": "Progressive Glider",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370016,
+      "name": "Progressive Weapon",
+      "type": "progression",
+      "amount": 2
+    },
+    {
+      "id": 9370017,
+      "name": "Progressive Shield",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370018,
+      "name": "Foxparks Skill Unlock",
+      "type": "progression",
+      "amount": 1
+    },
+    {
+      "id": 9370019,
+      "name": "Progressive Chest",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370020,
+      "name": "Repair Bench",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370021,
+      "name": "Feedbox",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370022,
+      "name": "Berry Plantation",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370023,
+      "name": "Ranch",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370024,
+      "name": "Straw Bed",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370025,
+      "name": "Monitoring Stand",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370026,
+      "name": "Progressive Sites",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370027,
+      "name": "Alarm Bell",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370028,
+      "name": "Melpaca Skill Unlock",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370029,
+      "name": "Rushoar Skill Unlock",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370030,
+      "name": "Crusher",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370031,
+      "name": "Statue of Power",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370032,
+      "name": "Progressive Feed Bag",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370033,
+      "name": "Hot Spring",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370034,
+      "name": "Direhowl Skill Unlock",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370035,
+      "name": "Progressive Furnace",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370036,
+      "name": "Progressive Helm",
+      "type": "useful",
+      "amount": 1
+    },
+    {
+      "id": 9370037,
+      "name": "Furniture Set 1",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370038,
+      "name": "Furniture Set 2",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370039,
+      "name": "Furniture Set 3",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370040,
+      "name": "Furniture Set 4",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370041,
+      "name": "Furniture Set 9",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370042,
+      "name": "Furniture Set 17",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370043,
+      "name": "Furniture Set 21",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370044,
+      "name": "Furniture Set 28",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370045,
+      "name": "Skin Change",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370046,
+      "name": "Player Bed",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370047,
+      "name": "Sandbag",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370048,
+      "name": "Wooden Defensive Wall",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370049,
+      "name": "Wooden Gate",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370050,
+      "name": "Hanging Trap",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370051,
+      "name": "Wooden Ladder",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370052,
+      "name": "Beartrap",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370053,
+      "name": "Torch",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370054,
+      "name": "Global Palbox",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370055,
+      "name": "Wooden Structures",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370056,
+      "name": "Signboard",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370057,
+      "name": "Wall Signboard",
+      "type": "filler",
+      "amount": 1
+    },
+    {
+      "id": 9370058,
+      "name": "Nothing",
+      "type": "filler",
+      "amount": 0
+    }
+  ]
+}

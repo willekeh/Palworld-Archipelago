@@ -1,0 +1,66 @@
+{
+  "goals": [
+    {
+      "name": "Goal: The Rayne Syndicate",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Item: Progressive Level : 8) AND (Item: Progressive Armor)"
+    }
+  ],
+  "events": [
+    {
+      "name": "Quest Complete: The First Islander",
+      "logic": "(Location: Quest: The First Islander)"
+    },
+    {
+      "name": "Quest Complete: Activate Great Eagle Statue",
+      "logic": "(Location: Quest: Activate Great Eagle Statue)"
+    },
+    {
+      "name": "Quest Complete: Open the Survival Guide",
+      "logic": "(Location: Quest: Open the Survival Guide)"
+    },
+    {
+      "name": "Quest Complete: Set Up a Workbench",
+      "logic": "(Location: Quest: Set Up a Workbench)"
+    },
+    {
+      "name": "Quest Complete: Crafting an Axe and a Pickaxe",
+      "logic": "(Location: Quest: Crafting an Axe and a Pickaxe)"
+    },
+    {
+      "name": "Quest Complete: Enhance Stats",
+      "logic": "(Location: Quest: Enhance Stats)"
+    },
+    {
+      "name": "Quest Complete: Catching a Pal",
+      "logic": "(Location: Quest: Catching a Pal)"
+    },
+    {
+      "name": "Quest Complete: Putting Pals to Work",
+      "logic": "(Location: Quest: Putting Pals to Work)"
+    },
+    {
+      "name": "Quest Complete: Filling Your Belly",
+      "logic": "(Location: Quest: Filling Your Belly)"
+    },
+    {
+      "name": "Quest Complete: The Weakest Pal",
+      "logic": "(Location: Quest: The Weakest Pal)"
+    },
+    {
+      "name": "Quest Complete: Gearing Up",
+      "logic": "(Location: Quest: Gearing Up)"
+    },
+    {
+      "name": "Quest Complete: Small Settlement",
+      "logic": "(Location: Quest: Small Settlement)"
+    },
+    {
+      "name": "Quest Complete: Crafting Pal Gear",
+      "logic": "(Location: Quest: Crafting Pal Gear)"
+    },
+    {
+      "name": "Quest Complete: The Rayne Syndicate",
+      "logic": "(Location: Quest: The Rayne Syndicate)"
+    }
+  ]
+}

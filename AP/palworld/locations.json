@@ -1,0 +1,299 @@
+{
+  "locations": [
+    {
+      "id": 9380001,
+      "name": "Pal: Chikipi",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) OR (Can Access: Windswept Hills) )"
+    },
+    {
+      "id": 9380002,
+      "name": "Pal: Lamball",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Flying Fish Coast) OR (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) )"
+    },
+    {
+      "id": 9380003,
+      "name": "Pal: Cattiva",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) )"
+    },
+    {
+      "id": 9380004,
+      "name": "Pal: Pengullet",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Plateau of Beginnings) OR (Can Access: Windswept Hills) )"
+    },
+    {
+      "id": 9380005,
+      "name": "Pal: Amione",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
+    },
+    {
+      "id": 9380006,
+      "name": "Pal: Celaray",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Flying Fish Coast) OR (Can Access: Sea Breeze Archipelago) OR (Can Access: Plateau of Beginnings) )"
+    },
+    {
+      "id": 9380007,
+      "name": "Pal: Clovee",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
+    },
+    {
+      "id": 9380008,
+      "name": "Pal: Cremis",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Golden Hills)"
+    },
+    {
+      "id": 9380009,
+      "name": "Pal: Croajiro",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
+    },
+    {
+      "id": 9380010,
+      "name": "Pal: Daedream",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Flying Fish Coast) OR (Can Access: Plateau of Beginnings) )"
+    },
+    {
+      "id": 9380011,
+      "name": "Pal: Depresso",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Golden Hills)"
+    },
+    {
+      "id": 9380012,
+      "name": "Pal: Direhowl",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Windswept Hills) )"
+    },
+    {
+      "id": 9380013,
+      "name": "Pal: Eikthyrdeer",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
+    },
+    {
+      "id": 9380014,
+      "name": "Pal: Flambelle",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Sea Breeze Archipelago)"
+    },
+    {
+      "id": 9380015,
+      "name": "Pal: Foxparks",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
+    },
+    {
+      "id": 9380016,
+      "name": "Pal: Fuack",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
+    },
+    {
+      "id": 9380017,
+      "name": "Pal: Gumoss",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) OR (Can Access: Windswept Hills) )"
+    },
+    {
+      "id": 9380018,
+      "name": "Pal: Hangyu",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
+    },
+    {
+      "id": 9380019,
+      "name": "Pal: Herbil",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
+    },
+    {
+      "id": 9380020,
+      "name": "Pal: Hoocrates",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Sea Breeze Archipelago)"
+    },
+    {
+      "id": 9380021,
+      "name": "Pal: Jolthog",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Golden Hills)"
+    },
+    {
+      "id": 9380022,
+      "name": "Pal: Kelpsea",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Windswept Hills) )"
+    },
+    {
+      "id": 9380023,
+      "name": "Pal: Lifmunk",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Windswept Hills) )"
+    },
+    {
+      "id": 9380024,
+      "name": "Pal: Melpaca",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
+    },
+    {
+      "id": 9380025,
+      "name": "Pal: Mozzarina",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Golden Hills) OR (Can Access: Windswept Hills) )"
+    },
+    {
+      "id": 9380026,
+      "name": "Pal: Nox",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
+    },
+    {
+      "id": 9380027,
+      "name": "Pal: Pupperai",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Plateau of Beginnings)"
+    },
+    {
+      "id": 9380028,
+      "name": "Pal: Ribbuny",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Flying Fish Coast)"
+    },
+    {
+      "id": 9380029,
+      "name": "Pal: Rooby",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) )"
+    },
+    {
+      "id": 9380030,
+      "name": "Pal: Rushoar",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Windswept Hills) )"
+    },
+    {
+      "id": 9380031,
+      "name": "Pal: Sparkit",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Golden Hills)"
+    },
+    {
+      "id": 9380032,
+      "name": "Pal: Swee",
+      "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Sea Breeze Archipelago)"
+    },
+    {
+      "id": 9380033,
+      "name": "Pal: Tanzee",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) )"
+    },
+    {
+      "id": 9380034,
+      "name": "Pal: Tanzee Ignis",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) )"
+    },
+    {
+      "id": 9380035,
+      "name": "Pal: Teafant",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) )"
+    },
+    {
+      "id": 9380036,
+      "name": "Pal: Vixy",
+      "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Windswept Hills) )"
+    },
+    {
+      "id": 9380037,
+      "name": "Reach Level 2",
+      "logic": "(Can Access: Plateau of Beginnings)"
+    },
+    {
+      "id": 9380038,
+      "name": "Reach Level 3",
+      "logic": "(Item: Progressive Level)"
+    },
+    {
+      "id": 9380039,
+      "name": "Reach Level 4",
+      "logic": "(Item: Progressive Level : 2)"
+    },
+    {
+      "id": 9380040,
+      "name": "Reach Level 5",
+      "logic": "(Item: Progressive Level : 3)"
+    },
+    {
+      "id": 9380041,
+      "name": "Reach Level 6",
+      "logic": "(Item: Progressive Level : 4)"
+    },
+    {
+      "id": 9380042,
+      "name": "Reach Level 7",
+      "logic": "(Item: Progressive Level : 5)"
+    },
+    {
+      "id": 9380043,
+      "name": "Reach Level 8",
+      "logic": "(Item: Progressive Level : 6)"
+    },
+    {
+      "id": 9380044,
+      "name": "Reach Level 9",
+      "logic": "(Item: Progressive Level : 7)"
+    },
+    {
+      "id": 9380045,
+      "name": "Reach Level 10",
+      "logic": "(Item: Progressive Level : 8)"
+    },
+    {
+      "id": 9380046,
+      "name": "Quest: The First Islander",
+      "logic": "(Can Access: Plateau of Beginnings)"
+    },
+    {
+      "id": 9380047,
+      "name": "Quest: Activate Great Eagle Statue",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: The First Islander)"
+    },
+    {
+      "id": 9380048,
+      "name": "Quest: Open the Survival Guide",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: Activate Great Eagle Statue)"
+    },
+    {
+      "id": 9380049,
+      "name": "Quest: Set Up a Workbench",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: Open the Survival Guide)"
+    },
+    {
+      "id": 9380050,
+      "name": "Quest: Crafting an Axe and a Pickaxe",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: Set Up a Workbench)"
+    },
+    {
+      "id": 9380051,
+      "name": "Quest: Enhance Stats",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: Crafting an Axe and a Pickaxe)"
+    },
+    {
+      "id": 9380052,
+      "name": "Quest: Catching a Pal",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Item: Progressive Pal Sphere) AND (Event: Quest Complete: Enhance Stats)"
+    },
+    {
+      "id": 9380053,
+      "name": "Quest: Putting Pals to Work",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Item: Pal Box) AND (Event: Quest Complete: Catching a Pal)"
+    },
+    {
+      "id": 9380054,
+      "name": "Quest: Filling Your Belly",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Item: Pal Box) AND (Event: Quest Complete: Putting Pals to Work)"
+    },
+    {
+      "id": 9380055,
+      "name": "Quest: The Weakest Pal",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Item: Pal Box) AND (Event: Quest Complete: Filling Your Belly)"
+    },
+    {
+      "id": 9380056,
+      "name": "Quest: Gearing Up",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Item: Progressive Armor) AND (Item: Progressive Shield) AND (Item: Progressive Glider) AND (Item: Progressive Materials) AND (Item: Progressive Level : 2) AND (Event: Quest Complete: The Weakest Pal)"
+    },
+    {
+      "id": 9380057,
+      "name": "Quest: Small Settlement",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Can Access: Golden Hills)"
+    },
+    {
+      "id": 9380058,
+      "name": "Quest: Crafting Pal Gear",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: Small Settlement) AND (Item: Golden Hills Key) AND (Item: Pal Gear Workbench) AND (Item: Foxparks Skill Unlock) AND (Item: Progressive Level : 4)"
+    },
+    {
+      "id": 9380059,
+      "name": "Quest: The Rayne Syndicate",
+      "logic": "(Can Access: Plateau of Beginnings) AND (Item: Progressive Level : 8) AND (Item: Progressive Armor) AND (Event: Quest Complete: Gearing Up) AND (Event: Quest Complete: Crafting Pal Gear)"
+    }
+  ]
+}

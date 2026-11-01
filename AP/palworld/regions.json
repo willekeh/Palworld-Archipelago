@@ -1,0 +1,24 @@
+{
+  "regions": [
+    {
+      "name": "Plateau of Beginnings",
+      "logic": "(Item: Plateau of Beginnings Key)"
+    },
+    {
+      "name": "Windswept Hills",
+      "logic": "( (Can Access: Flying Fish Coast) OR (Can Access: Plateau of Beginnings) OR (Can Access: Golden Hills) ) AND (Item: Windswept Hills Key)"
+    },
+    {
+      "name": "Golden Hills",
+      "logic": "( (Can Access: Flying Fish Coast) OR (Can Access: Sea Breeze Archipelago) OR (Can Access: Windswept Hills) ) AND (Item: Golden Hills Key)"
+    },
+    {
+      "name": "Flying Fish Coast",
+      "logic": "( (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) OR (Can Access: Windswept Hills) ) AND (Item: Flying Fish Coast Key)"
+    },
+    {
+      "name": "Sea Breeze Archipelago",
+      "logic": "(Can Access: Golden Hills) AND (Item: Sea Breeze Archipelago Key)"
+    }
+  ]
+}
