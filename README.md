@@ -23,10 +23,6 @@ What the game changes, its items, locations and goal are described in the [docs]
 Other Palworld mods can be used alongside the Archipelago integration, but they may cause unforeseen conflicts or breaking changes. 
 It is recommended to test any additional mods in a solo world before using them in a sync or async multiworld.
 
-## Development
-
-for contributing see [Contributing](docs/contributing.md)
-
 ## License
 
 MIT, see [LICENSE](LICENSE). The bundled `lua-apclientpp.dll` has its own MIT license, see
