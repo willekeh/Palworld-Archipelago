@@ -28,7 +28,7 @@ class PalworldLocation(Location):
 
 class PalworldWebWorld(WebWorld):
     theme = "grassFlowers"
-    bug_report_page = "https://github.com/willekeh/Palworld-Archipelago/issues"
+    bug_report_page = "https://github.com/willekeh/Palworld-Archipelago"
     tutorials = [
         Tutorial(
             "Multiworld Setup Guide",

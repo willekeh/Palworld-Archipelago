@@ -21,6 +21,7 @@ regionDefinitions = regionsData["regions"]
 locationDefinitions = locationsData["locations"]
 locationNameToId = {entry["name"]: entry["id"] for entry in locationDefinitions}
 
+
 eventDefinitions = eventsData["events"]
 goalDefinition = eventsData["goals"][0]
 

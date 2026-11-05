@@ -11,7 +11,7 @@ import re
 tokenPattern = re.compile(r"\((?:Can Access|Item|Event|Location): [^()]*\)|\(|\)|AND|OR")
 atomPattern = re.compile(r"\((Can Access|Item|Event|Location): (.*)\)$")
 
-constantTrue = ("const", True)  # logic without any condition
+constantTrue = ("const", True) 
 
 
 def parseLogic(logicText):
