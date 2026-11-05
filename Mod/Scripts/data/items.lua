@@ -5,6 +5,7 @@ return {
     [10003] = { kind = "area", name = "Golden Hills Key" },
     [10004] = { kind = "area", name = "Flying Fish Coast Key" },
     [10005] = { kind = "area", name = "Sea Breeze Archipelago Key" },
+    [10059] = { kind = "area", name = "Autumn Rocks Key" },
     [10006] = { kind = "level", name = "Progressive Level" },
     [10007] = { kind = "tech", name = "Pal Box", tiers = { { "PalBox" } } },
     [10008] = { kind = "tech", name = "Progressive Pal Sphere", tiers = { { "Special_PalSphere_Grade_01" } } },

@@ -19,6 +19,10 @@
     {
       "name": "Sea Breeze Archipelago",
       "logic": "(Can Access: Golden Hills) AND (Item: Sea Breeze Archipelago Key)"
+    },
+    {
+      "name": "Autumn Rocks",
+      "logic": "(Can Access: Windswept Hills) AND (Item: Autumn Rocks Key)"
     }
   ]
 }
