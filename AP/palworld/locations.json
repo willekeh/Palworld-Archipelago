@@ -1,297 +1,297 @@
 {
   "locations": [
     {
-      "id": 9380001,
+      "id": 10101,
       "name": "Pal: Chikipi",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) OR (Can Access: Windswept Hills) )"
     },
     {
-      "id": 9380002,
+      "id": 10102,
       "name": "Pal: Lamball",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Flying Fish Coast) OR (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) )"
     },
     {
-      "id": 9380003,
+      "id": 10103,
       "name": "Pal: Cattiva",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) )"
     },
     {
-      "id": 9380004,
+      "id": 10104,
       "name": "Pal: Pengullet",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Plateau of Beginnings) OR (Can Access: Windswept Hills) )"
     },
     {
-      "id": 9380005,
+      "id": 10105,
       "name": "Pal: Amione",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
     },
     {
-      "id": 9380006,
+      "id": 10106,
       "name": "Pal: Celaray",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Flying Fish Coast) OR (Can Access: Sea Breeze Archipelago) OR (Can Access: Plateau of Beginnings) )"
     },
     {
-      "id": 9380007,
+      "id": 10107,
       "name": "Pal: Clovee",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
     },
     {
-      "id": 9380008,
+      "id": 10108,
       "name": "Pal: Cremis",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Golden Hills)"
     },
     {
-      "id": 9380009,
+      "id": 10109,
       "name": "Pal: Croajiro",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
     },
     {
-      "id": 9380010,
+      "id": 10110,
       "name": "Pal: Daedream",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Flying Fish Coast) OR (Can Access: Plateau of Beginnings) )"
     },
     {
-      "id": 9380011,
+      "id": 10111,
       "name": "Pal: Depresso",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Golden Hills)"
     },
     {
-      "id": 9380012,
+      "id": 10112,
       "name": "Pal: Direhowl",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Windswept Hills) )"
     },
     {
-      "id": 9380013,
+      "id": 10113,
       "name": "Pal: Eikthyrdeer",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
     },
     {
-      "id": 9380014,
+      "id": 10114,
       "name": "Pal: Flambelle",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Sea Breeze Archipelago)"
     },
     {
-      "id": 9380015,
+      "id": 10115,
       "name": "Pal: Foxparks",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
     },
     {
-      "id": 9380016,
+      "id": 10116,
       "name": "Pal: Fuack",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
     },
     {
-      "id": 9380017,
+      "id": 10117,
       "name": "Pal: Gumoss",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) OR (Can Access: Windswept Hills) )"
     },
     {
-      "id": 9380018,
+      "id": 10118,
       "name": "Pal: Hangyu",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
     },
     {
-      "id": 9380019,
+      "id": 10119,
       "name": "Pal: Herbil",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
     },
     {
-      "id": 9380020,
+      "id": 10120,
       "name": "Pal: Hoocrates",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Sea Breeze Archipelago)"
     },
     {
-      "id": 9380021,
+      "id": 10121,
       "name": "Pal: Jolthog",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Golden Hills)"
     },
     {
-      "id": 9380022,
+      "id": 10122,
       "name": "Pal: Kelpsea",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Windswept Hills) )"
     },
     {
-      "id": 9380023,
+      "id": 10123,
       "name": "Pal: Lifmunk",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Windswept Hills) )"
     },
     {
-      "id": 9380024,
+      "id": 10124,
       "name": "Pal: Melpaca",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
     },
     {
-      "id": 9380025,
+      "id": 10125,
       "name": "Pal: Mozzarina",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Golden Hills) OR (Can Access: Windswept Hills) )"
     },
     {
-      "id": 9380026,
+      "id": 10126,
       "name": "Pal: Nox",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Windswept Hills)"
     },
     {
-      "id": 9380027,
+      "id": 10127,
       "name": "Pal: Pupperai",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Plateau of Beginnings)"
     },
     {
-      "id": 9380028,
+      "id": 10128,
       "name": "Pal: Ribbuny",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Flying Fish Coast)"
     },
     {
-      "id": 9380029,
+      "id": 10129,
       "name": "Pal: Rooby",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) )"
     },
     {
-      "id": 9380030,
+      "id": 10130,
       "name": "Pal: Rushoar",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Windswept Hills) )"
     },
     {
-      "id": 9380031,
+      "id": 10131,
       "name": "Pal: Sparkit",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Golden Hills)"
     },
     {
-      "id": 9380032,
+      "id": 10132,
       "name": "Pal: Swee",
       "logic": "(Item: Progressive Pal Sphere) AND (Can Access: Sea Breeze Archipelago)"
     },
     {
-      "id": 9380033,
+      "id": 10133,
       "name": "Pal: Tanzee",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) )"
     },
     {
-      "id": 9380034,
+      "id": 10134,
       "name": "Pal: Tanzee Ignis",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) )"
     },
     {
-      "id": 9380035,
+      "id": 10135,
       "name": "Pal: Teafant",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Plateau of Beginnings) )"
     },
     {
-      "id": 9380036,
+      "id": 10136,
       "name": "Pal: Vixy",
       "logic": "(Item: Progressive Pal Sphere) AND ( (Can Access: Sea Breeze Archipelago) OR (Can Access: Golden Hills) OR (Can Access: Windswept Hills) )"
     },
     {
-      "id": 9380037,
+      "id": 10137,
       "name": "Reach Level 2",
       "logic": "(Can Access: Plateau of Beginnings)"
     },
     {
-      "id": 9380038,
+      "id": 10138,
       "name": "Reach Level 3",
       "logic": "(Item: Progressive Level)"
     },
     {
-      "id": 9380039,
+      "id": 10139,
       "name": "Reach Level 4",
       "logic": "(Item: Progressive Level : 2)"
     },
     {
-      "id": 9380040,
+      "id": 10140,
       "name": "Reach Level 5",
       "logic": "(Item: Progressive Level : 3)"
     },
     {
-      "id": 9380041,
+      "id": 10141,
       "name": "Reach Level 6",
       "logic": "(Item: Progressive Level : 4)"
     },
     {
-      "id": 9380042,
+      "id": 10142,
       "name": "Reach Level 7",
       "logic": "(Item: Progressive Level : 5)"
     },
     {
-      "id": 9380043,
+      "id": 10143,
       "name": "Reach Level 8",
       "logic": "(Item: Progressive Level : 6)"
     },
     {
-      "id": 9380044,
+      "id": 10144,
       "name": "Reach Level 9",
       "logic": "(Item: Progressive Level : 7)"
     },
     {
-      "id": 9380045,
+      "id": 10145,
       "name": "Reach Level 10",
       "logic": "(Item: Progressive Level : 8)"
     },
     {
-      "id": 9380046,
+      "id": 10146,
       "name": "Quest: The First Islander",
       "logic": "(Can Access: Plateau of Beginnings)"
     },
     {
-      "id": 9380047,
+      "id": 10147,
       "name": "Quest: Activate Great Eagle Statue",
       "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: The First Islander)"
     },
     {
-      "id": 9380048,
+      "id": 10148,
       "name": "Quest: Open the Survival Guide",
       "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: Activate Great Eagle Statue)"
     },
     {
-      "id": 9380049,
+      "id": 10149,
       "name": "Quest: Set Up a Workbench",
       "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: Open the Survival Guide)"
     },
     {
-      "id": 9380050,
+      "id": 10150,
       "name": "Quest: Crafting an Axe and a Pickaxe",
       "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: Set Up a Workbench)"
     },
     {
-      "id": 9380051,
+      "id": 10151,
       "name": "Quest: Enhance Stats",
       "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: Crafting an Axe and a Pickaxe)"
     },
     {
-      "id": 9380052,
+      "id": 10152,
       "name": "Quest: Catching a Pal",
       "logic": "(Can Access: Plateau of Beginnings) AND (Item: Progressive Pal Sphere) AND (Event: Quest Complete: Enhance Stats)"
     },
     {
-      "id": 9380053,
+      "id": 10153,
       "name": "Quest: Putting Pals to Work",
       "logic": "(Can Access: Plateau of Beginnings) AND (Item: Pal Box) AND (Event: Quest Complete: Catching a Pal)"
     },
     {
-      "id": 9380054,
+      "id": 10154,
       "name": "Quest: Filling Your Belly",
       "logic": "(Can Access: Plateau of Beginnings) AND (Item: Pal Box) AND (Event: Quest Complete: Putting Pals to Work)"
     },
     {
-      "id": 9380055,
+      "id": 10155,
       "name": "Quest: The Weakest Pal",
       "logic": "(Can Access: Plateau of Beginnings) AND (Item: Pal Box) AND (Event: Quest Complete: Filling Your Belly)"
     },
     {
-      "id": 9380056,
+      "id": 10156,
       "name": "Quest: Gearing Up",
       "logic": "(Can Access: Plateau of Beginnings) AND (Item: Progressive Armor) AND (Item: Progressive Shield) AND (Item: Progressive Glider) AND (Item: Progressive Materials) AND (Item: Progressive Level : 2) AND (Event: Quest Complete: The Weakest Pal)"
     },
     {
-      "id": 9380057,
+      "id": 10157,
       "name": "Quest: Small Settlement",
       "logic": "(Can Access: Plateau of Beginnings) AND (Can Access: Golden Hills)"
     },
     {
-      "id": 9380058,
+      "id": 10158,
       "name": "Quest: Crafting Pal Gear",
       "logic": "(Can Access: Plateau of Beginnings) AND (Event: Quest Complete: Small Settlement) AND (Item: Golden Hills Key) AND (Item: Pal Gear Workbench) AND (Item: Foxparks Skill Unlock) AND (Item: Progressive Level : 4)"
     },
     {
-      "id": 9380059,
+      "id": 10159,
       "name": "Quest: The Rayne Syndicate",
       "logic": "(Can Access: Plateau of Beginnings) AND (Item: Progressive Level : 8) AND (Item: Progressive Armor) AND (Event: Quest Complete: Gearing Up) AND (Event: Quest Complete: Crafting Pal Gear)"
     }
