@@ -1,7 +1,7 @@
 # Palworld Setup Guide
 
-This guide takes you from nothing to playing Palworld as part of an Archipelago multiworld. What the game changes, its
-items, locations and goal are explained on the [game page](docs/palworld_en.md).
+This is the setup guide for palworld archipelago. 
+What the game changes, its items, locations and goal are explained in the [docs](docs/palworld_en.md).
 
 ## What you need
 
@@ -12,7 +12,7 @@ items, locations and goal are explained on the [game page](docs/palworld_en.md).
 - **UE4SS Experimental (Palworld)** from the Steam Workshop
 - The **APPalworld** mod from the Steam Workshop
 
-## 1. Install UE4SS and the mod
+## 1. Install UE4SS and the APPalworld mod
 
 Both come from the Steam Workshop, so there is nothing to copy by hand.
 
@@ -56,3 +56,7 @@ To leave, type `!!disconnect` or by going back to the title screen.
   kind.
 - **The goal** is defeating the first tower boss or completing the quest _The Rayne Syndicate_.
 - **The mod does not reconnect by itself.** If the connection drops, type `!!connect` again with the same details.
+
+## 6. Mod Compatibility
+Other Palworld mods can be used alongside the Archipelago integration, but they may cause unforeseen conflicts or breaking changes. 
+It is recommended to test any additional mods in a solo world before using them in a sync or async multiworld.
