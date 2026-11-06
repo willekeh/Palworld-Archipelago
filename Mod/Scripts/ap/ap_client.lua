@@ -70,9 +70,6 @@ function archipelagoClient:connect(host, port, slotName, password)
         self:disconnect()
     end
     if self.authenticatedConnectionKey ~= nil and self.authenticatedConnectionKey ~= newConnectionKey then
-        -- checks and goal of another slot must never reach this one.
-        -- Only a slot the server really accepted counts: a refused attempt
-        -- (wrong name, wrong password) never owned these checks.
         self.queuedLocationChecks = {}
         self.isGoalPending = false
     end
@@ -82,7 +79,7 @@ function archipelagoClient:connect(host, port, slotName, password)
     self.connection.port = port
     self.connection.slotName = slotName
     self.connection.password = password or ""
-    self.isClientCreationPending = true  -- tick() creates the client on the game thread
+    self.isClientCreationPending = true  
     logger.write("connecting to " .. newConnectionKey)
     return true
 end

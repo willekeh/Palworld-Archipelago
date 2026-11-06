@@ -13,7 +13,7 @@ end
 local modFolder = paths.folderFromSource(debug.getinfo(1, "S").source)
 
 paths.dllFolder = modFolder .. "Scripts/library/"
-paths.logFile = modFolder .. "logs/ap.log"
-paths.cacheFolder = modFolder .. "cached/"
+paths.logFile = modFolder .. "Scripts/logs/ap.log"
+paths.cacheFolder = modFolder .. "Scripts/cached/"
 
 return paths
