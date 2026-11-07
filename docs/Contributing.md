@@ -25,9 +25,9 @@ While dumping it only dumps to how far you have played in a session. So if you o
 
 An item or location exists in two places, and the ids and names have to be identical.
 
-- **Items:** `apworld/palworld/items.json` and `mod/Scripts/data/items.lua`. Item ids are in the range 9370000 to 9379999. A tech item also needs its tech ids in `mod/Scripts/data/tech_pool.lua`.
+- **Items:** `apworld/palworld/items.json` and `mod/Scripts/data/items.lua`. Item ids are in the range 10001 to 10058. A tech item also needs its tech ids in `mod/Scripts/data/tech_pool.lua`.
 - **Locations:** `apworld/palworld/locations.json` and `mod/Scripts/data/locations.lua`. Location ids are in the range
-  10000 to 20000. A new pal also goes into `mod/Scripts/data/pal_names.lua`, and a new quest into
+  20001 to 20059. A new pal also goes into `mod/Scripts/data/pal_names.lua`, and a new quest into
   `mod/Scripts/data/quests.lua`.
 - **Logic:** write it in the `logic` field with the atoms `(Item: Name)`, `(Item: Name : count)`,
   `(Can Access: Region)`, `(Event: Name)` and `(Location: Name)`, combined with `AND`, `OR` and parentheses. A quest
