@@ -34,7 +34,7 @@ Make a Yaml, it currently doesnt have any options
 
 ## 4. Connect
 
-1. Start Palworld and load a world. The mod does not check which Palworld world you load, so keep one Palworld world
+1. Start Palworld and start a new world. The mod does not check which Palworld world you load, so keep one Palworld world
    for each multiworld yourself.
 2. Open the chat and type:
 
