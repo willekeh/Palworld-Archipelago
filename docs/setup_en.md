@@ -19,7 +19,7 @@ Both come from the Steam Workshop, so there is nothing to copy by hand.
 
 1. Subscribe to **UE4SS Experimental (Palworld)** on the Steam Workshop.
 2. Subscribe to the **APPalworld** mod on the Steam Workshop.
-3. Start Palworld, open **Options → Mod Management**, enable **APPalworld** and **UE4SS Experimental (Palworld)** The game should prompt you to restart.
+3. Start Palworld, open **Options → Mod Management**, enable Mods then enable **APPalworld** and **UE4SS Experimental (Palworld)** The game should prompt you to restart.
 
 ### Nexus
 
