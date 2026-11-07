@@ -25,7 +25,7 @@ Both come from the Steam Workshop, so there is nothing to copy by hand.
 
 1. Have [UE4SS](https://www.nexusmods.com/palworld/mods/2237?tab=description) installed
 2. Download the mod from the [release page](https://github.com/willekeh/Palworld-Archipelago/releases)
-3. The mod should be added at **`steamapps\common\Palworld\Pal\Binaries\Win64\ue4ss`**
+3. The mod should be unzipped at **`steamapps\common\Palworld\Pal\Binaries\Win64\ue4ss`**
 4. Start Palworld, open **Options → Mod Management**, enable Mods then enable **APPalworld** and **UE4SS Experimental (Palworld)** The game should prompt you to restart.
 
 
