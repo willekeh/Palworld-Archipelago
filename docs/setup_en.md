@@ -14,11 +14,19 @@ What the game changes, its items, locations and goal are explained in the [docs]
 
 ## 1. Install UE4SS and the APPalworld mod
 
+### Steam
 Both come from the Steam Workshop, so there is nothing to copy by hand.
 
 1. Subscribe to **UE4SS Experimental (Palworld)** on the Steam Workshop.
 2. Subscribe to the **APPalworld** mod on the Steam Workshop.
 3. Start Palworld, open **Options → Mod Management**, enable **APPalworld** and **UE4SS Experimental (Palworld)** The game should prompt you to restart.
+
+### Nexus
+
+1. Have [UE4SS](https://www.nexusmods.com/palworld/mods/2237?tab=description) installed
+2. Download the mod from the [release page](https://github.com/willekeh/Palworld-Archipelago/releases)
+3. The mod should be added at **`steamapps\common\Palworld\Pal\Binaries\Win64\ue4ss`**
+
 
 ## 2. Install the apworld
 
