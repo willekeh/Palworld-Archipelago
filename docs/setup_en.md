@@ -10,7 +10,7 @@ What the game changes, its items, locations and goal are explained in the [docs]
 - The **`palworld.apworld`** file from the
   [releases page](https://github.com/willekeh/Palworld-Archipelago/releases)
 - **UE4SS Experimental (Palworld)** from the Steam Workshop
-- The **APPalworld** mod from the Steam Workshop or download it manually for nexus
+- The **APPalworld** mod from the Steam Workshop or download it manually for Nexus
 
 ## 1. Install UE4SS and the APPalworld mod
 
